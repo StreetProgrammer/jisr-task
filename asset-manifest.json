@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jisr-task/static/css/main.ce7d7beb.css",
+    "main.js": "/jisr-task/static/js/main.b139491f.js",
+    "index.html": "/jisr-task/index.html",
+    "main.ce7d7beb.css.map": "/jisr-task/static/css/main.ce7d7beb.css.map",
+    "main.b139491f.js.map": "/jisr-task/static/js/main.b139491f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce7d7beb.css",
+    "static/js/main.b139491f.js"
+  ]
+}
